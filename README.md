@@ -1,6 +1,27 @@
 # student_infrmation_manager
 
 A new Flutter project.
+ =============================
+// Student Information Manager
+// Single-file Flutter app
+// =============================
+// Requirements covered:
+// a) Welcome Dashboard (name, course, university) with styling & custom font
+// b) Snackbar alert button
+// c) Student Counter with + / -
+// d) Login form with validation
+// e) Profile picture from online URL (responsive)
+//
+// ---- Setup notes ----
+// 1) Add this dependency in pubspec.yaml to use a custom Google Font (Poppins):
+//    dependencies:
+//      flutter:
+//        sdk: flutter
+//      google_fonts: ^6.2.1
+// 2) Then run:  flutter pub get
+// 3) Put this file at: lib/main.dart
+// 4) Run the app:     flutter run
+// ---------------------
 
 ## Getting Started
 
